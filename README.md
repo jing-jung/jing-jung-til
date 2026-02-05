@@ -3,8 +3,7 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [12월, 4주차] : 파이썬
-
-24.04.02 세부 주제 1 작성 ([상세 내역 링크]https://github.com/jing-jung/jing-jung-til/blob/main/Dec/2025-12-30))
+24.04.02 세부 주제 1 작성 ([상세 내역 링크](https://github.com/jing-jung/jing-jung-til/blob/main/Dec/2025-12-30))
 
 ### [1월, 1주차] : WEB
 
